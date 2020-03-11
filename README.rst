@@ -5,3 +5,5 @@ vision_opencv
     :target: https://travis-ci.org/ros-perception/vision_opencv
 
 Packages for interfacing ROS with OpenCV, a library of programming functions for real time computer vision.
+
+FORK INFO: Forced compilation for OpenCV 4
