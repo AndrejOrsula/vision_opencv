@@ -7,3 +7,5 @@ ros2 vison_opencv contains packages to interface ROS2 with [OpenCV](http://openc
 * `opencv_tests`: Integration tests to use the capability of the packages with opencv
 
 In order to use ROS2 with OpenCV, please see the details within [cv_bridge](https://github.com/ros-perception/vision_opencv/tree/ros2/cv_bridge) package and OpenCV is a system dependency
+
+FORK INFO: Forced compilation for OpenCV 4
